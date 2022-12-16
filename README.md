@@ -11,4 +11,4 @@ En la actualidad sigo trabajando en este grupo de desarrollo de software y adem√
 # Tecnolog√≠as:
  ![JavaScript](./js.png)
 
- 
+ hola
