@@ -1,4 +1,5 @@
-# Hola, mi nombre es Iván Pérez ![Bombilla](./bombilla.png)
+# Hola, mi nombre es Iván Pérez 
+![Bombilla](./bombilla.png)
 
 
 
