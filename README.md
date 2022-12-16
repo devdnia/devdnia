@@ -9,6 +9,8 @@ En 2016 pasé a formar parte del grupo de desarrollo del que fuí técnico de 1 
 En la actualidad sigo trabajando en este grupo de desarrollo de software y además haciendo por mi cuenta aplicaciones, por pura diversión y apredizaje es puro hobbie.
 
 # Tecnologías:
- ![JavaScript](./js.png)
+ ![JavaScript](./javascript.svg)
 
+
+ ![TypesScript](./typescript.svg)
  hola
